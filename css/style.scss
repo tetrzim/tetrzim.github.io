@@ -52,6 +52,8 @@ p {
   font-size: 1.3em;
 }
 
+ul li { padding: 5px 0px; }
+
 a {
   @include transition(color .2s ease-in-out);
   &:hover {

@@ -36,7 +36,7 @@ I will be working at <a href="https://aws.amazon.com/ai/?nc1=h_ls">AWS AI Labs</
 
 ## 21.02 ICML Papers
 
-We have two papers accepted for publication at ICML 2021.
+Two papers have been accepted for publication at ICML 2021.
 
 <q><a href="http://proceedings.mlr.press/v139/yoon21d.html">Accelerated Algorithms for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm</a></q> is selected as a long talk _(top 166/5513=3% of papers)_.<br>
 It introduces the algorithm **_Extra Anchored Gradient_** which reduces the gradient norm of smooth convex-concave objectives with an optimal complexity.

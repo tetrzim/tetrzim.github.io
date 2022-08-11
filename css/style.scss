@@ -61,6 +61,11 @@ a {
 }
 
 img {
+  width: 80%;
+  height: auto
+}
+
+.profile {
   width: 30%;
   height: auto
 }
@@ -232,7 +237,7 @@ button.btn, input.btn {
   &:after {
     content: '';
     position: absolute;
-    top: 1.35em;
+    top: 2.00em;
     width: 3em;
     height: 3px;
     background-color: #ECEFF1;
@@ -281,7 +286,7 @@ button.btn, input.btn {
       margin-bottom: 1.5em;
       &:after {
         content: '';
-        position: absolute;
+        position: relative;
         top: 1.5em;
         left: 0;
         width: 3em;

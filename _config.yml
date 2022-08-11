@@ -100,5 +100,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'About' }
-  - { url: '/publications', text: 'Publications' }
+  - { url: '/CV', text: 'CV' }
   - { url: '/news', text: 'News'}

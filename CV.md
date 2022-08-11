@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. -->
 
 # TaeHo Yoon
 
-Downloadable CV <a href="assets/files/CV_THY_202208.pdf" download>here</a>.
+Downloadable CV <a href="https://drive.google.com/file/d/14FgVUXB5R3IaOA--ONV7VvUQ95OOSjKF/view?usp=sharing" download>here</a>.
 
 ---
 
@@ -58,17 +58,21 @@ Downloadable CV <a href="assets/files/CV_THY_202208.pdf" download>here</a>.
 
 ## Publications
 
-- <font size=4pt>Accelerated Minimax Algorithms Flock Together. <b>T. Yoon</b> and E. K. Ryu, <i>Manuscript</i>.</font>
-- <font size=4pt>Robust Probabilistic Time Series Forecasting. <b>T. Yoon</b>, Y. Park, E. K. Ryu and Y. Wang, <i>AISTATS</i>, 2022.</font>
-- <font size=4pt>Accelerated Methods for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm. <b>T. Yoon</b> and E. K. Ryu, <i>ICML</i>, 2021.</font>
-    - <font size=3pt>Long presentation: Top 166/5513=3% of papers.</font>
-- <font size=4pt>WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points. A. No, <b>T. Yoon</b>, S. Kwon and E. K. Ryu, <i>ICML</i>, 2021.</font>
-- <font size=4pt> Joint Transfer of Model Knowledge and Fairness Over Domains Using Wasserstein Distance. <b>T. Yoon</b>, J. Lee and W. Lee, <i>IEEE Access</i>, 2020.</font>
+<div style="padding: 5px 0px">
+    - <font size=4pt>Accelerated Minimax Algorithms Flock Together. <b>T. Yoon</b> and E. K. Ryu, <i>Manuscript</i>.</font>
+    - <font size=4pt>Robust Probabilistic Time Series Forecasting. <b>T. Yoon</b>, Y. Park, E. K. Ryu and Y. Wang, <i>AISTATS</i>, 2022.</font>
+    - <font size=4pt>Accelerated Methods for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm. <b>T. Yoon</b> and E. K. Ryu, <i>ICML</i>, 2021.</font>
+        - <font size=3pt>Long presentation: Top 166/5513=3% of papers.</font>
+    - <font size=4pt>WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points. A. No, <b>T. Yoon</b>, S. Kwon and E. K. Ryu, <i>ICML</i>, 2021.</font>
+    - <font size=4pt> Joint Transfer of Model Knowledge and Fairness Over Domains Using Wasserstein Distance. <b>T. Yoon</b>, J. Lee and W. Lee, <i>IEEE Access</i>, 2020.</font>
+</div>
 
 ---
 
 ## Fellowships and Awards
 
-- <font size=4pt>Youlchon AI Star Fellowship, 2022.</font>
-- <font size=4pt>Global Ph.D. Fellowship (GPF), 2019-Present.</font>
-- <font size=4pt>Program for Highly Dedicated Students (PHDS) at POSTECH, 2014-2018.</font>
+<div style="padding: 5px 0px">
+    - <font size=4pt>Youlchon AI Star Fellowship, 2022.</font>
+    - <font size=4pt>Global Ph.D. Fellowship (GPF), 2019-Present.</font>
+    - <font size=4pt>Program for Highly Dedicated Students (PHDS) at POSTECH, 2014-2018.</font>
+</div>

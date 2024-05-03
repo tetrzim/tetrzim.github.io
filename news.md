@@ -14,6 +14,17 @@ There should be whitespace between paragraphs. -->
 
 Followings are some recent news about me, important or miscellaneous.
 
+## 24.05 New paper on minimax optimization and fixed-point problems
+
+Excited to announce the acceptance to ICML 2024 of our paper <q><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique</a></q>!
+
+We discover novel algorithms for fixed-point problems (equivalent to proximal algorithms for monotone inclusion) achieving the exact optimal complexity.
+We establish a new duality theory between fixed-point algorithms (the H-duality) and exhibit an analogous phenomenon in minimax optimization, together with the continuous-time analysis bridging between the two setups.
+
+## 23.12 NeurIPS 2023
+
+I am attending NeurIPS to present our paper <q><a href="https://arxiv.org/abs/2307.02770">Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback</a></q>.
+
 ## 23.08 Talk at WYMK 2023
 
 I will give an invited talk at <a href="https://sites.google.com/view/wymk2023">Workshop for Young Mathematicians in Korea (WYMK 2023)</a> on sampling algorithms and diffusion models.

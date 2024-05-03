@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. -->
 
 # TaeHo Yoon
 
-Downloadable CV <a href="https://drive.google.com/uc?export=download&id=14FgVUXB5R3IaOA--ONV7VvUQ95OOSjKF" download>here</a>.
+Downloadable CV <a href="https://drive.google.com/file/d/1sIvs64JUjNAYxWCi6BwFYw-KB999kEU4/view?usp=sharing" download>here</a>.
 
 ---
 
@@ -58,12 +58,15 @@ Downloadable CV <a href="https://drive.google.com/uc?export=download&id=14FgVUXB
 
 ## Publications
 
-* <font size=4pt>Accelerated Minimax Algorithms Flock Together. <b>T. Yoon</b> and E. K. Ryu, <i>Manuscript</i>.</font>
-* <font size=4pt>Robust Probabilistic Time Series Forecasting. <b>T. Yoon</b>, Y. Park, E. K. Ryu and Y. Wang, <i>AISTATS</i>, 2022.</font>
-* <font size=4pt>Accelerated Methods for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm. <b>T. Yoon</b> and E. K. Ryu, <i>ICML</i>, 2021.</font>
+* <font size=4pt><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.</a> <b>T. Yoon</b>, J. Kim, J. J. Suh and E. K. Ryu, <i>ICML</i>, 2024.</font>
+* <font size=4pt><a href="https://arxiv.org/abs/2307.02770">Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback.</a> <b>T. Yoon</b>, K. Myoung, K. Lee, J. Cho, A. No and E. K. Ryu, <i>NeurIPS</i>, 2023.</font>
+* <font size=4pt><a href="https://openreview.net/forum?id=shciCbSk9h">Diffusion Probabilistic Models Generalize when They Fail to Memorize.</a> <b>T. Yoon</b>, J. Choi, S. Kwon and E. K. Ryu, <i>ICML Workshop on Structured Probabilistic Inference & Generative Modeling</i>, 2023.</font>
+* <font size=4pt><a href="https://arxiv.org/abs/2205.11093">Accelerated Minimax Algorithms Flock Together.</a> <b>T. Yoon</b> and E. K. Ryu, <i>Manuscript</i>.</font>
+* <font size=4pt><a href="https://proceedings.mlr.press/v151/yoon22a.html">Robust Probabilistic Time Series Forecasting.</a> <b>T. Yoon</b>, Y. Park, E. K. Ryu and Y. Wang, <i>AISTATS</i>, 2022.</font>
+* <font size=4pt><a href="http://proceedings.mlr.press/v139/yoon21d.html">Accelerated Methods for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm.</a> <b>T. Yoon</b> and E. K. Ryu, <i>ICML</i>, 2021.</font>
     - <font size=3pt>Long presentation: Top 166/5513=3% of papers.</font>
-* <font size=4pt>WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points. A. No, <b>T. Yoon</b>, S. Kwon and E. K. Ryu, <i>ICML</i>, 2021.</font>
-* <font size=4pt> Joint Transfer of Model Knowledge and Fairness Over Domains Using Wasserstein Distance. <b>T. Yoon</b>, J. Lee and W. Lee, <i>IEEE Access</i>, 2020.</font>
+* <font size=4pt><a href="http://proceedings.mlr.press/v139/no21a.html">WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points.</a> A. No, <b>T. Yoon</b>, S. Kwon and E. K. Ryu, <i>ICML</i>, 2021.</font>
+* <font size=4pt><a href="https://ieeexplore.ieee.org/abstract/document/9129731">Joint Transfer of Model Knowledge and Fairness Over Domains Using Wasserstein Distance.</a> <b>T. Yoon</b>, J. Lee and W. Lee, <i>IEEE Access</i>, 2020.</font>
 
 ---
 

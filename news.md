@@ -14,9 +14,22 @@ There should be whitespace between paragraphs. -->
 
 Followings are some recent news about me, important or miscellaneous.
 
+## 24.07 ICML 2024 spotlight paper
+
+Excited to announce that our paper <q><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique</a></q> has been accepted for publication at ICML 2024 as a spotlight paper _(top 335/9473=3.5% of papers)_!
+I will visit Vienna, Austria to present our paper.
+
+## 24.06 Talk at EUROPT 2024
+
+I will give a talk at <a href="https://europt2024.event.lu.se/">EUROPT 2024</a> held in Lund, Sweden.
+
+## 24.05 Paper accepted to SIAM Journal on Optimization
+
+Excited to announce that our paper <q><a href="https://arxiv.org/abs/2205.11093">Accelerated Minimax Algorithms Flock Together</a></q> has been accepted to <a href="https://siam.org/publications/journals/siam-journal-on-optimization-siopt">SIAM Journal on Optimization</a>!
+
 ## 24.05 New paper on minimax optimization and fixed-point problems
 
-Excited to announce the acceptance to ICML 2024 of our paper <q><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique</a></q>!
+Our new paper <q><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique</a></q> has been announced.
 
 We discover novel algorithms for fixed-point problems (equivalent to proximal algorithms for monotone inclusion) achieving the exact optimal complexity.
 We establish a new duality theory between fixed-point algorithms (the H-duality) and exhibit an analogous phenomenon in minimax optimization, together with the continuous-time analysis bridging between the two setups.

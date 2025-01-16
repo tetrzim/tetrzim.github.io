@@ -12,16 +12,29 @@ There should be whitespace between paragraphs. -->
 
 # TaeHo Yoon
 
-Downloadable CV <a href="https://drive.google.com/file/d/1AYFWuex1jNAL9Sj6lqa0qBqJWEXhzMOa/view?usp=sharing" download>here</a>.
+Downloadable CV <a href="https://drive.google.com/file/d/1NLG3KxS7b6548bIw-_WEb6tWZio_e0JR/view?usp=sharing" download>here</a>.
 
 ---
+
+## Academic Positions
+
+<font size=2pt><br></font>
+
+<div class="row">
+    <div class="col-xs-12 col-md-3"><font size=4pt>2025-Present</font></div>
+    <div class="col-xs-12 col-md-9 text-left">
+        <font size=4pt><b>Johns Hopkins University</b></font><br>
+        <font size=3pt>Rufus Isaacs Postdoctoral Fellow, Dept. of Applied Mathematics & Statistics</font><br>
+        <font size=3pt>Co-worker: <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a></font>
+    </div> 
+</div>
 
 ## Education
 
 <font size=2pt><br></font>
 
 <div class="row">
-    <div class="col-xs-12 col-md-3"><font size=4pt>2018-Present</font></div>
+    <div class="col-xs-12 col-md-3"><font size=4pt>2018-2024</font></div>
     <div class="col-xs-12 col-md-9 text-left">
         <font size=4pt><b>Seoul National University</b></font><br>
         <font size=3pt>Ph.D. in Mathematical Sciences</font><br>
@@ -58,6 +71,7 @@ Downloadable CV <a href="https://drive.google.com/file/d/1AYFWuex1jNAL9Sj6lqa0qB
 
 ## Publications
 
+* <font size=4pt><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication.</a> <b>T. Yoon</b>, S. Choudhury and N. Loizou, <i>Manuscript</i>, 2025.</font>
 * <font size=4pt><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.</a> <b>T. Yoon</b>, J. Kim, J. J. Suh and E. K. Ryu, <i>ICML</i>, 2024.</font>
     - <font size=3pt>Spotlight paper: Top 335/9473=3.5% of papers.</font>
 * <font size=4pt><a href="https://arxiv.org/abs/2307.02770">Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback.</a> <b>T. Yoon</b>, K. Myoung, K. Lee, J. Cho, A. No and E. K. Ryu, <i>NeurIPS</i>, 2023.</font>
@@ -73,6 +87,7 @@ Downloadable CV <a href="https://drive.google.com/file/d/1AYFWuex1jNAL9Sj6lqa0qB
 
 ## Fellowships and Awards
 
+* <font size=4pt>SPARC Best Doctoral Thesis Award in Natural Sciences, 2024.</font>
 * <font size=4pt>Youlchon AI Star Fellowship, 2022.</font>
-* <font size=4pt>Global Ph.D. Fellowship (GPF), 2019-Present.</font>
+* <font size=4pt>Global Ph.D. Fellowship (GPF), 2019-2023.</font>
 * <font size=4pt>Program for Highly Dedicated Students (PHDS) at POSTECH, 2014-2018.</font>

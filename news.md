@@ -14,6 +14,21 @@ There should be whitespace between paragraphs. -->
 
 Followings are some recent news about me, important or miscellaneous.
 
+## 25.01 New paper on federated learning for multiplayer games
+
+Our new paper <q><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication</a></q> has been announced.
+
+We propose Multiplayer Federated Learning (MpFL), a new federated learning framework that models the clients as rational players in a multiplayer game, aiming to reach an equilibrium.
+
+## 25.01 Paper published at SIAM Journal on Optimization
+
+Our paper <q><a href="https://epubs.siam.org/doi/10.1137/22M1504597">Accelerated Minimax Algorithms Flock Together</a></q> has finally been published!
+
+## 25.01 Postdoc appointment at JHU
+
+I have started my postdoc at Johns Hopkins. Looking forward to the new opportunities ahead within the enriching environment.
+<i>Good morning Baltimore!</i>
+
 ## 24.07 ICML 2024 spotlight paper
 
 Excited to announce that our paper <q><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique</a></q> has been accepted for publication at ICML 2024 as a spotlight paper _(top 335/9473=3.5% of papers)_!

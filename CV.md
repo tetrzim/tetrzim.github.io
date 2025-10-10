@@ -71,12 +71,13 @@ Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEe
 
 ## Selected Publications
 
-* <font size=4pt><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication.</a> <b>T. Yoon</b>, S. Choudhury and N. Loizou, <i>Manuscript</i>, 2025.</font>
+* <font size=4pt>PEARL-Prox: Proximal Algorithm for Resolving Player Drift in Multiplayer Federated Learning. <b>T. Yoon</b> and N. Loizou, <i>NeurIPS OPT Workshop</i>, 2025.</font>
+* <font size=4pt><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication.</a> <b>T. Yoon</b>, S. Choudhury and N. Loizou, <i>NeurIPS</i>, 2025.</font>
+* <font size=4pt><a href="https://epubs.siam.org/doi/10.1137/22M1504597">Accelerated Minimax Algorithms Flock Together.</a> <b>T. Yoon</b> and E. K. Ryu, <i>SIAM Journal on Optimization</i>, 2025.</font>
 * <font size=4pt><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.</a> <b>T. Yoon</b>, J. Kim, J. J. Suh and E. K. Ryu, <i>ICML</i>, 2024.</font>
     - <font size=3pt>Spotlight paper: Top 335/9473=3.5% of papers.</font>
 * <font size=4pt><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/a5755ccd0efeca8852ae0a1193f319f6-Abstract-Conference.html">Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback.</a> <b>T. Yoon</b>, K. Myoung, K. Lee, J. Cho, A. No and E. K. Ryu, <i>NeurIPS</i>, 2023.</font>
 * <font size=4pt><a href="https://openreview.net/forum?id=shciCbSk9h">Diffusion Probabilistic Models Generalize when They Fail to Memorize.</a> <b>T. Yoon</b>, J. Choi, S. Kwon and E. K. Ryu, <i>ICML Workshop on Structured Probabilistic Inference & Generative Modeling</i>, 2023.</font>
-* <font size=4pt><a href="https://epubs.siam.org/doi/10.1137/22M1504597">Accelerated Minimax Algorithms Flock Together.</a> <b>T. Yoon</b> and E. K. Ryu, <i>SIAM Journal on Optimization</i>, 2025.</font>
 * <font size=4pt><a href="https://proceedings.mlr.press/v151/yoon22a.html">Robust Probabilistic Time Series Forecasting.</a> <b>T. Yoon</b>, Y. Park, E. K. Ryu and Y. Wang, <i>AISTATS</i>, 2022.</font>
 * <font size=4pt><a href="http://proceedings.mlr.press/v139/yoon21d.html">Accelerated Methods for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm.</a> <b>T. Yoon</b> and E. K. Ryu, <i>ICML</i>, 2021.</font>
     - <font size=3pt>Long presentation: Top 166/5513=3% of papers.</font>

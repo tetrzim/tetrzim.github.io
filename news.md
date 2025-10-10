@@ -14,13 +14,31 @@ There should be whitespace between paragraphs. -->
 
 Followings are some recent news about me, important or miscellaneous.
 
+## 25.10 JHU MINDS Seminar
+
+I will give a talk at <a href="https://www.minds.jhu.edu/events/calendar/">JHU CIS/MINDS Seminar</a> on Multiplayer Federated Learning.
+
+## 25.09 Updates on Multiplayer Federated Learning
+
+<q><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication</a></q> has been accepted for publication in NeurIPS 2025!
+
+Our second paper on MpFL, <q>PEARL-Prox: Proximal Algorithm for Resolving Player Drift in Multiplayer Federated Learning</q>, has been accepted in NeurIPS OPT 2025 Workshop and will be available online soon!
+
+## 25.07 Talk at ICCOPT 2025
+
+In-person talk at <a href="https://sites.google.com/view/iccopt2025/home">ICCOPT 2025</a> in Los Angeles, again on <i>Exact Optimal Fixed-Point Algorithms: A Complete Characterization.</i>
+
+## 25.06 Talk at EUROPT 2025
+
+In-person talk at <a href="https://europt2025.org/">EUROPT 2025</a> held in Southampton, UK, entitled <i>Exact Optimal Fixed-Point Algorithms: A Complete Characterization.</i>
+
 ## 25.01 New paper on federated learning for multiplayer games
 
 Our new paper <q><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication</a></q> has been announced.
 
 We propose Multiplayer Federated Learning (MpFL), a new federated learning framework that models the clients as rational players in a multiplayer game, aiming to reach an equilibrium.
 
-## 25.01 Paper published at SIAM Journal on Optimization
+## 25.01 Paper published in SIAM Journal on Optimization
 
 Our paper <q><a href="https://epubs.siam.org/doi/10.1137/22M1504597">Accelerated Minimax Algorithms Flock Together</a></q> has finally been published!
 

@@ -25,7 +25,7 @@ Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEe
     <div class="col-xs-12 col-md-9 text-left">
         <font size=4pt><b>Johns Hopkins University</b></font><br>
         <font size=3pt>Rufus Isaacs Postdoctoral Fellow, Dept. of Applied Mathematics & Statistics</font><br>
-        <font size=3pt>Co-worker: <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a></font>
+        <font size=3pt>Co-worker: <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a>, <a href="https://www.ams.jhu.edu/~grimmer/">Benjamin Grimmer</a></font>
     </div> 
 </div>
 

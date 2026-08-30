@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. -->
 
 # TaeHo Yoon
 
-Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEeAiaXQxC1UD/view?usp=sharing" download>here</a>.
+Downloadable CV <a href="https://drive.google.com/file/d/1RTyUtH_uwpc7EkKQsYe5u8gxbJz6XuNn/view?usp=sharing" download>here</a>.
 
 ---
 
@@ -21,7 +21,17 @@ Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEe
 <font size=2pt><br></font>
 
 <div class="row">
-    <div class="col-xs-12 col-md-3"><font size=4pt>2025-Present</font></div>
+    <div class="col-xs-12 col-md-3"><font size=4pt>2026-Present</font></div>
+    <div class="col-xs-12 col-md-9 text-left">
+        <font size=4pt><b>Johns Hopkins University</b></font><br>
+        <font size=3pt>Assistant Research Scientist, Dept. of Applied Mathematics & Statistics</font><br>
+    </div> 
+</div>
+
+<font size=2pt><br></font>
+
+<div class="row">
+    <div class="col-xs-12 col-md-3"><font size=4pt>2025-2026</font></div>
     <div class="col-xs-12 col-md-9 text-left">
         <font size=4pt><b>Johns Hopkins University</b></font><br>
         <font size=3pt>Rufus Isaacs Postdoctoral Fellow, Dept. of Applied Mathematics & Statistics</font><br>
@@ -63,7 +73,7 @@ Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEe
     <div class="col-xs-12 col-md-9 text-left">
         <font size=4pt><b>AI Vertical Services, AWS</b></font><br>
         <font size=3pt>Applied Scientist Intern</font><br>
-        <font size=3pt>Mentors: <a href="https://scholar.google.com/citations?user=jWROvQ0AAAAJ&hl=en">Youngsuk Park</a>, <a href="http://web.mit.edu/~ywang02/www/">Bernie Wang</a></font>
+        <font size=3pt>Mentors: <a href="https://youngsuk0723.github.io/">Youngsuk Park</a>, <a href="http://web.mit.edu/~ywang02/www/">Bernie Wang</a></font>
     </div> 
 </div>
 
@@ -71,7 +81,7 @@ Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEe
 
 ## Selected Publications
 
-* <font size=4pt>PEARL-Prox: Proximal Algorithm for Resolving Player Drift in Multiplayer Federated Learning. <b>T. Yoon</b> and N. Loizou, <i>NeurIPS OPT Workshop</i>, 2025.</font>
+* <font size=4pt><a href="https://link.springer.com/article/10.1007/s10107-026-02414-5">H-invariance theory: a complete characterization of minimax optimal fixed-point algorithms.</a> <b>T. Yoon</b>, E. K. Ryu and B. Grimmer. <i>Mathematical Programming</i>, 2026.</font>
 * <font size=4pt><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication.</a> <b>T. Yoon</b>, S. Choudhury and N. Loizou, <i>NeurIPS</i>, 2025.</font>
 * <font size=4pt><a href="https://epubs.siam.org/doi/10.1137/22M1504597">Accelerated Minimax Algorithms Flock Together.</a> <b>T. Yoon</b> and E. K. Ryu, <i>SIAM Journal on Optimization</i>, 2025.</font>
 * <font size=4pt><a href="https://arxiv.org/abs/2404.13228">Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.</a> <b>T. Yoon</b>, J. Kim, J. J. Suh and E. K. Ryu, <i>ICML</i>, 2024.</font>
@@ -81,8 +91,6 @@ Downloadable CV <a href="https://drive.google.com/file/d/1cACYdpUnfmcNfFkIPZzrEe
 * <font size=4pt><a href="https://proceedings.mlr.press/v151/yoon22a.html">Robust Probabilistic Time Series Forecasting.</a> <b>T. Yoon</b>, Y. Park, E. K. Ryu and Y. Wang, <i>AISTATS</i>, 2022.</font>
 * <font size=4pt><a href="http://proceedings.mlr.press/v139/yoon21d.html">Accelerated Methods for Smooth Convex-Concave Minimax Problems with $\mathcal{O}(1/k^2)$ Rate on Squared Gradient Norm.</a> <b>T. Yoon</b> and E. K. Ryu, <i>ICML</i>, 2021.</font>
     - <font size=3pt>Long presentation: Top 166/5513=3% of papers.</font>
-* <font size=4pt><a href="http://proceedings.mlr.press/v139/no21a.html">WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points.</a> A. No, <b>T. Yoon</b>, S. Kwon and E. K. Ryu, <i>ICML</i>, 2021.</font>
-* <font size=4pt><a href="https://ieeexplore.ieee.org/abstract/document/9129731">Joint Transfer of Model Knowledge and Fairness Over Domains Using Wasserstein Distance.</a> <b>T. Yoon</b>, J. Lee and W. Lee, <i>IEEE Access</i>, 2020.</font>
 
 ---
 

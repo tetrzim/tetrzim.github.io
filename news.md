@@ -14,15 +14,53 @@ There should be whitespace between paragraphs. -->
 
 Followings are some recent news about me, important or miscellaneous.
 
+## 26.08 Talk at MOPTA
+
+I will give a talk at <a href="https://coral.ise.lehigh.edu/mopta2026/">Modeling and Optimization: Theory and Applications (MOPTA)</a> at Lehigh University.
+
+## 26.08 New paper on stochastic extension of fixed-point acceleration
+
+Our new paper <q><a href="https://arxiv.org/abs/2608.12043">Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization</a></q> has been announced.
+
+Traditionally, acceleration does not extend easily to stochastic optimization.
+We discover that for fixed-point problems, certain acceleration doesn't, but another one does!
+
+## 26.08 New paper on stochastic extragradient algorithm
+
+Our new paper <q><a href="https://arxiv.org/abs/2608.06182">On Same-Sample and Independent-Sample Stochastic Extragradient for Monotone Variational Inequalities</a></q> has been announced.
+
+We provide an in-depth study of the distinction of same- and independent-sample variants of stochastic extragradient under general assumptions.
+
+## 26.06 New paper on Lyapunov analyses in optimization
+
+Our new paper <q><a href="https://arxiv.org/abs/2606.26077">Toward a Systematic Understanding and Interactive Search of Lyapunov-Style Proofs in Optimization</a></q> has been announced.
+
+We characterize when and how a tight proof, i.e., a combination of inequalities, admits a translation into a Lyapunov-style proof in optimization.
+
+Combining this with AI (coding agents) is a very promising direction. We have presented the preliminary results in a separate work <q><a href="https://openreview.net/pdf?id=q7TfzOgGnb">Peppy: An AI-Assisted Workflow for Tight Convergence Analysis of Optimization Algorithms</a></q> at <a href="https://ai4research-icml-workshop.github.io/">ICML 2026 AI4Research Workshop</a>.
+
+## 26.05 New paper on combinatorial structure of optimal fixed-point algorithms and H-duality
+
+Our new paper <q><a href="https://arxiv.org/abs/2605.02231">A Theory of Composition and Duality of Extremal Optimal Fixed-Point Algorithms</a></q> has been announced.
+
+We present an exciting combinatorial theory of extremal vertices of the set of optimal fixed-point algorithms.
+Through our work, the algorithms become diagrams/graphs!
+
+## 25.11 New paper on optimal fixed-point algorithms
+
+Our new paper <q><a href="https://link.springer.com/article/10.1007/s10107-026-02414-5">H-invariance theory: a complete characterization of minimax optimal fixed-point algorithms</a></q> has been announced.
+
+<b>Update: </b> This paper has been published in Mathematical Programming in August 2026, taking less than 9 full months from the date received.
+
 ## 25.10 JHU MINDS Seminar
 
 I will give a talk at <a href="https://www.minds.jhu.edu/events/calendar/">JHU CIS/MINDS Seminar</a> on Multiplayer Federated Learning.
 
 ## 25.09 Updates on Multiplayer Federated Learning
 
-<q><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication</a></q> has been accepted for publication in NeurIPS 2025!
+<q><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication</a></q> has been accepted for publication at NeurIPS 2025!
 
-Our second paper on MpFL, <q>PEARL-Prox: Proximal Algorithm for Resolving Player Drift in Multiplayer Federated Learning</q>, has been accepted in NeurIPS OPT 2025 Workshop and will be available online soon!
+Our second paper on MpFL, <a href="https://openreview.net/forum?id=1QNwop8DMv"><q>PEARL-Prox: Proximal Algorithm for Resolving Player Drift in Multiplayer Federated Learning</q></a> has been presented at NeurIPS OPT 2025 Workshop.
 
 ## 25.07 Talk at ICCOPT 2025
 

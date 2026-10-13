@@ -81,6 +81,7 @@ Downloadable CV <a href="https://drive.google.com/file/d/1RTyUtH_uwpc7EkKQsYe5u8
 
 ## Selected Publications
 
+* <font size=4pt><a href="https://neurips.cc/virtual/2026/loc/atlanta/poster/153100">Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization.</a> <b>T. Yoon</b> and N. Loizou. <i>NeurIPS</i>, 2026.</font>
 * <font size=4pt><a href="https://link.springer.com/article/10.1007/s10107-026-02414-5">H-invariance theory: a complete characterization of minimax optimal fixed-point algorithms.</a> <b>T. Yoon</b>, E. K. Ryu and B. Grimmer. <i>Mathematical Programming</i>, 2026.</font>
 * <font size=4pt><a href="https://arxiv.org/abs/2501.08263">Multiplayer Federated Learning: Reaching Equilibrium with Less Communication.</a> <b>T. Yoon</b>, S. Choudhury and N. Loizou, <i>NeurIPS</i>, 2025.</font>
 * <font size=4pt><a href="https://epubs.siam.org/doi/10.1137/22M1504597">Accelerated Minimax Algorithms Flock Together.</a> <b>T. Yoon</b> and E. K. Ryu, <i>SIAM Journal on Optimization</i>, 2025.</font>

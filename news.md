@@ -14,16 +14,24 @@ There should be whitespace between paragraphs. -->
 
 Followings are some recent news about me, important or miscellaneous.
 
+## 26.09 New papers on stochastic extension of fixed-point and minimax acceleration
+
+Our paper <q><a href="https://neurips.cc/virtual/2026/loc/atlanta/poster/153100">Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization</a></q> has been accepted at NeurIPS 2026.
+We followed up on it in a more recent paper <q><a href="https://arxiv.org/abs/2609.36033">Dual-Anchor Acceleration Is Near-Optimal for Stochastic Monotone Root-Finding</a></q>, where we eventually improved the algorithm's complexity to the near-optimal level.
+
+Traditionally, deterministic acceleration does not extend easily to stochastic optimization.
+We discover that for fixed-point and minimax problems, certain acceleration doesn't, but another one does!
+
+## 26.09 New papers on monotone inclusions/root-finding problems
+
+Two new papers have been announced: <q><a href="https://arxiv.org/abs/2609.26581">Polyak-Type Extragradient Methods for Monotone Root-Finding Problems</a></q> and <q><a href="https://arxiv.org/abs/2609.30212">Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems</a></q>.
+
+Each work connects between two distinct literatures. The first paper connects (stochastic) Polyak step-sizes from convex optimization with minimax/monotone inclusion problems.
+The second paper connects first-order anchor acceleration for minimax/monotone inclusion problems with the literature on higher-order Newton/tensor algorithms.
+
 ## 26.08 Talk at MOPTA
 
 I will give a talk at <a href="https://coral.ise.lehigh.edu/mopta2026/">Modeling and Optimization: Theory and Applications (MOPTA)</a> at Lehigh University.
-
-## 26.08 New paper on stochastic extension of fixed-point acceleration
-
-Our new paper <q><a href="https://arxiv.org/abs/2608.12043">Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization</a></q> has been announced.
-
-Traditionally, acceleration does not extend easily to stochastic optimization.
-We discover that for fixed-point problems, certain acceleration doesn't, but another one does!
 
 ## 26.08 New paper on stochastic extragradient algorithm
 
